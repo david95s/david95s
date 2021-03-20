@@ -11,7 +11,7 @@
 - React.js
 - JavaScript ❤️
 - Html
-- Css / Saas
+- Css / Sass
 - Bootstrap.
 - Jquery. 
 
