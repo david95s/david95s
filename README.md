@@ -16,3 +16,6 @@
 - Jquery. 
 
 ## NeverStopLearning 
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+ </p>
