@@ -9,11 +9,7 @@
 
 My strength knowledges are related to:
 
-<ul>
-  texto
- </ul>
-- React.js,
-- JavaScript(ES6),
-- Html,
-- Css / Saas,
--  
+- React.js
+- JavaScript(ES6)
+- Html
+- Css / Saas
