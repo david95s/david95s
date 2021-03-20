@@ -1,6 +1,6 @@
 ### Hi guy 👨‍💻
-  # Software Developer in Brazil
-
+  # Front-end web development in Brasil. 
+  
 🔭 Currently, I'm learning about the following topics:
 
   - Next.js
@@ -9,6 +9,10 @@
 💪🤓 My strength knowledges are related to:
 
 - React.js
-- JavaScript(ES6)
+- JavaScript ❤️
 - Html
 - Css / Saas
+- Bootstrap.
+- Jquery. 
+
+## I'm always interesting on learn someth
