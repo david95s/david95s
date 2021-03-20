@@ -1,7 +1,19 @@
 ### Hi guy 👨‍💻
+  Software Developer in Brazil
+
+ 🔭 Currently, I'm learning about the following topics:
+
+  - Next.js
+  - Deeping dive to Typescript
 
 
-- 🔭 I’m currently working on Konnet Telecom
-- ❤️ I’m currently learning React.js, Next.js
-- 💬 Ask me about JavaScript(ES6), Html, Css
+My strength knowledges are related to:
 
+<ul>
+  texto
+ </ul>
+- React.js,
+- JavaScript(ES6),
+- Html,
+- Css / Saas,
+-  
