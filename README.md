@@ -9,7 +9,7 @@
 💪🤓 My strength knowledges are related to:
 
 - React.js
-- JavaScript ❤️
+- JavaScript (ES6+) ❤️
 - Html
 - Css / Sass
 - Bootstrap.
