@@ -1,7 +1,7 @@
 ### Hi guy 👨‍💻
   # Front-end web development in Brasil. 
   
-🔭 Currently, I'm learning about the following topics:
+📘 Currently, I'm learning about the following topics:
 
   - Next.js
   - Deeping dive to Typescript
