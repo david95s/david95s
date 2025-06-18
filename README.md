@@ -20,7 +20,6 @@ Currently expanding my skills beyond front-end, diving into back-end and DevOps 
 - Redux
 - JavaScript (ES6+)
 - HTML5 & CSS3 / Sass
-- Bootstrap
 
 ---
 
