@@ -1,11 +1,13 @@
 ### 👋 Hello, I'm a front-end developer from Brazil
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 12;" />
-</div>
-
-I'm passionate about building clean, scalable, and modern web applications.  
-Currently expanding my skills beyond front-end, diving into back-end and DevOps tools.
+<p align="center">
+  <span>
+    I'm passionate about building clean, scalable, and modern web applications.  
+    Currently expanding my skills beyond front-end, diving into back-end and DevOps tools.
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 ---
 
